@@ -269,3 +269,17 @@ A utilização da Engenharia de Prompts mostrou que pequenas alterações na for
 **Guilherme de Sousa Soares**
 
 Projeto desenvolvido como desafio da **Digital Innovation One (DIO)**.
+
+## 📸 Demonstração
+
+### Fontes carregadas
+
+![Fontes](imagens/notebooklm-fontes.png)
+
+### Resposta gerada
+
+![Resposta](imagens/notebooklm-resposta.png)
+
+### Mapa Mental
+
+![Mapa Mental](imagens/notebooklm-mapa.png)
