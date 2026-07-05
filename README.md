@@ -21,3 +21,21 @@ Banco Central do Brasil	Educação Financeira
 Comissão de Valores Mobiliários (CVM)	Guia do Investidor
 ANBIMA	Planejamento Financeiro
 Tesouro Direto	Investimentos em Títulos Públicos
+
+
+Estrutura.
+
+caderno-tematico-notebooklm-financas/
+│
+├── README.md
+├── fontes/
+│   ├── educacao-financeira-bacen.pdf
+│   ├── guia-investidor-cvm.pdf
+│   ├── planejamento-financeiro-anbima.pdf
+│
+├── imagens/
+│   ├── notebooklm-fontes.png
+│   ├── notebooklm-resumo.png
+│   ├── notebooklm-prompts.png
+│
+└── LICENSE (opcional)
